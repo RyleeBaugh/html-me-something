@@ -1,0 +1,42 @@
+
+*{
+    text-align: center;
+}
+main {
+    margin-right: 150px;
+    margin-left: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+img {
+    width: 40%;
+    height: auto;
+    border: white;
+    border-style: solid;
+    border-width: 5px;
+}
+ul {
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 0;
+}
+figcaption {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 20px;
+}
+#heading {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 65px;
+}
+.captionHeading  {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 45px;
+}
+body {
+    background-color: #ffb3ff;
+    border: black;
+    border-style: double;
+    border-width: 20px;
+}
